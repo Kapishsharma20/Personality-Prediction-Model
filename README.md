@@ -1,1 +1,3 @@
 # Personality-Prediction-Model
+This project has demonstrated the potential for using advanced algorithms to gain insights into the complex concept of human personality. By collecting and analyzing data we were able to extract relevant features and train machine learning models to accurately predict personality traits. Also it represents a significant step towards a better understanding of the complex and multifaceted nature of human personality, and the potential for technology to provide valuable insights into this important aspect of human behavior.
+Algorithms used are KNN, Naive Bayes and HAC Clustering.
